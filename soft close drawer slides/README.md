@@ -1,6 +1,6 @@
-#MEC721-W2024
-##Simulation of an SDOF vibration system
-###Lab1: Sliding Drawer
+# MEC721-W2024
+## Simulation of an SDOF vibration system
+### Lab1: Sliding Drawer
 
 **Format:** Individual lab/report
 
@@ -19,7 +19,7 @@ The system can be modeled as a single degree of freedom, with a point mass of m 
 This lab has parts a, b, c, d, e.
 
 
-###Part a
+### Part a
 *\[a\]\[20%\]* Simulate the response of the system, assuming the drawer is opened by 50 cm and released from rest. Use a closed-form solution to simulate the response of the system. Refer to your textbook, for the formulations. To use the right formulation, you need to know if the system is underdamped, overdamped etc. Follow the steps below.
 
 Deliverables: 
