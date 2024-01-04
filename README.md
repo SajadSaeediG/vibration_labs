@@ -11,5 +11,5 @@ You need the following Python packages:\
 `numpy`\
 `matplotlib`\
 `scipy`\
-`icecream`\
+`icecream`
 
