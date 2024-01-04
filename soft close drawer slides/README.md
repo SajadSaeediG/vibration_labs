@@ -105,17 +105,14 @@ Open `drawer_e.py`, complete task **TODO10**, and run the code.
 
 
 ### Animations
-An example of an overdamped design
-
+An example of an overdamped design:\
 ![overdamped](./images/drawer_overdamped.gif)
 
 
-An example of an underdamped design
-
+An example of an underdamped design:\
 ![overdamped](./images/drawer_underdamped1.gif)
 
 
-An example of an underdamped design
-
+An example of an underdamped design:\
 ![overdamped](./images/drawer_underdamped2.gif)
 
