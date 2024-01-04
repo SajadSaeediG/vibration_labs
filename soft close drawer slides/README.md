@@ -16,21 +16,21 @@
 
 The system can be modeled as a single degree of freedom, with a point mass of m \[kg\] (for the drawer), spring stiffness of k \[N/m\], and the damping coefficient of c \[F/m/s\]. Refer to the course material for the EOM of the system. Assume m = 1, k = 3, c = 2.
 
-This lab has parts a, b, c, d, e.
+This lab has parts a, b, c, d, and e.
 
 
 ### Part a
-*\[a\]\[20%\]* Simulate the response of the system, assuming the drawer is opened by 50 cm and released from rest. Use a closed-form solution to simulate the response of the system. Refer to your textbook, for the formulations. To use the right formulation, you need to know if the system is underdamped, overdamped etc. Follow the steps below.
+**\[a\]\[20%\]** Simulate the response of the system, assuming the drawer is opened by 50 cm and released from rest. Use a closed-form solution to simulate the response of the system. Refer to your textbook, for the formulations. To use the right formulation, you need to know if the system is underdamped, overdamped etc. Follow the steps below.
 
 Deliverables: 
-\[a-1\] Determine the roots of the system \[2%\]. What do the roots state about the system? \[1%\]
+**\[a-1\]** Determine the roots of the system \[2%\]. What do the roots state about the system? \[1%\]
 Hint: open the file drawerlab/mass_spring_damper.py and complete TODO1
 By running drawer_a.py, you will see the results.
 	
-\[a-2\] Once you know the type of the system, in file drawer_a.py, complete TODO2-5.
+**\[a-2\]** Once you know the type of the system, in file drawer_a.py, complete TODO2-5.
 
 Reports three graphs, showing the time response of the system, i.e. (i) position vs time \[4%\], (ii) velocity vs time \[4%\], and (iii) acceleration vs time \[4%\]. These graphs are saved on your computer.
 
-\[a-3\] In your lab report, report the code you developed for only TODO1-5 \[5%\]. Attached the full code.
+**\[a-3\]** In your lab report, report the code you developed for only TODO1-5 \[5%\]. Attached the full code.
 
 
