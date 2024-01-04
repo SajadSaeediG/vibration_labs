@@ -1,15 +1,5 @@
-# MEC721-W2024
-## Simulation of an SDOF vibration system
-### Lab1: Sliding Drawer
-
-**Format:** Individual lab/report
-
-**Note1:** Plagiarism is a serious academic offense, which can affect your status in the program. You are expected to finish the lab independently and report your results honestly.
-
-**Note2:** Attendance in the lab is mandatory. No show means a 0 grade for that lab, even if you submit a report. There is no make-up session. You are not allowed to change your section.
-
-**Due date:** A week after your lab session, right before the start of the next session. For example, if your lab session started at 2 PM, Jan 1st, 2020, your report is due at 2 PM, Jan 8th, 2020.
-
+# Simulation of a single-DOF vibration system
+## Sliding Drawer
 
 
 **Problem Statement:**  Soft-close drawer slides are used to make sure the drawer is closed softly. One of the advantages of such systems is that no electricity is required to close the drawer. 
