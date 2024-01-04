@@ -23,8 +23,9 @@ This lab has parts a, b, c, d, and e.
 **\[a\]\[20%\]** Simulate the response of the system, assuming the drawer is opened by 50 cm and released from rest. Use a closed-form solution to simulate the response of the system. Refer to your textbook, for the formulations. To use the right formulation, you need to know if the system is underdamped, overdamped etc. Follow the steps below.
 
 Deliverables: 
+
 **\[a-1\]** Determine the roots of the system \[2%\]. What do the roots state about the system? \[1%\]
-Hint: open the file drawerlab/mass_spring_damper.py and complete TODO1
+Hint: open the file `drawerlab/mass_spring_damper.py` and complete TODO1
 By running drawer_a.py, you will see the results.
 	
 **\[a-2\]** Once you know the type of the system, in file drawer_a.py, complete TODO2-5.
@@ -40,6 +41,7 @@ Reports three graphs, showing the time response of the system, i.e. (i) position
 Note: You can disable/enable simulation from here: drawerlab/settings.py. 
  
 **_Deliverables:_** 
+
 **\[b-1\]** You will need to run drawer_b.py. But first, open file drawerlab/mass_spring_damper.py and complete task TODO6-7. Refer to your textbook or online resource for solving differential equations using ODE.
 
 Report two graphs, showing the time response of the system, i.e. (i) position vs time [5%], (ii) velocity vs time [5%].  
@@ -53,6 +55,7 @@ Report two graphs, showing the time response of the system, i.e. (i) position vs
 **\[c\]\[10%\]** Calculate the amount of kinetic energy, if the drawer comes in contact with the cabinet frame when closing. 
 
 **_Deliverables_** 
+
 You will need to run drawer_c.py. But first, open file drawerlab/mass_spring_damper.py again and complete task TODO8
 
 **\[c-1\]** Report the formulation of calculations [2%]
@@ -69,6 +72,7 @@ You will need to run drawer_c.py. But first, open file drawerlab/mass_spring_dam
 **\[d\]\[20%\]** You are allowed to choose the damping coefficient from 1…14 such that the kinetic energy upon impact is at most 0.01 [J]. 
 
 **_Deliverables_** 
+
 You will need to run drawer_d.py. 
 
 **\[d-1\]** Report a plot demonstrating the kinetic energy on the y-axis vs the permitted damping coefficient on the x-axis, i.e. 0.1, 0.2, …, 3.0, 3.1. [8%]
@@ -86,6 +90,7 @@ You will need to run drawer_d.py.
 **\[e\]\[35%\]** You are allowed to change both spring constant in range {0.1, 0.2, …, 2.3, 2.4} and the damping coefficient in range {0.1, 0.2, …, 2.3, 2.4}.
 
 **_Deliverables_** 
+
 Open drawer_e.py, complete task **TODO10**, and run the code.
 
 **\[e-1\]** Report a plot demonstrating all k values on the y-axis vs all c values on the x-axis. The plot should show the permissible range for c and k, such that the drawer is closed in 10 seconds. [10%]
