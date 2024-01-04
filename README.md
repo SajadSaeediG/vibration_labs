@@ -1,5 +1,6 @@
 ### Vibration Labs
-This repository includes several vibration labs. See each folder for detailed instructions. The labs include:
+This repository includes several vibration labs. See each folder for detailed instructions. Navigate to the folder, and click on README.md to see the instructions. 
+The labs include:
 * Soft-close Drawer Slides
 
 ### Working on the Labs
