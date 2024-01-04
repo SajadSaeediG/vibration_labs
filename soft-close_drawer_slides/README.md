@@ -2,7 +2,8 @@
 ## Sliding Drawer
 
 
-**Problem Statement:**  Soft-close drawer slides are used to make sure the drawer is closed softly. One of the advantages of such systems is that no electricity is required to close the drawer. 
+### Problem Statement
+Soft-close drawer slides are used to make sure the drawer is closed softly. One of the advantages of such systems is that no electricity is required to close the drawer. 
 
 ![drawer](./images/drawer.png)
 
