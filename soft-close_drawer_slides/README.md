@@ -18,7 +18,7 @@ This lab has parts a, b, c, d, and e.
 Deliverables: 
 
 **\[a-1\]** Determine the roots of the system \[2%\]. What do the roots state about the system? \[1%\]
-Hint: open the file `drawerlab/mass_spring_damper.py` and complete **TODO1**
+Hint: open the file `drawerlab/mass_spring_damper.py` and complete **TODO1**.
 By running `drawer_a.py`, you will see the results.
 	
 **\[a-2\]** Once you know the type of the system, in file `drawer_a.py`, complete **TODO2-5**.
