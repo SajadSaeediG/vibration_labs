@@ -52,7 +52,6 @@ Report two graphs, showing the time response of the system, i.e. (i) position vs
 
 
 
-
 ### Part c
 **\[c\]\[10%\]** Calculate the amount of kinetic energy, if the drawer comes in contact with the cabinet frame when closing. 
 
@@ -102,3 +101,9 @@ Open `drawer_e.py`, complete task **TODO10**, and run the code.
 **\[e-3\]** Pick a value for c and k from the permissible range, such that the KE is maximized [5%]. Report the closing time [5%].
 
 **\[e-4\]** In your lab report, report the code you developed for only **TODO10** [5%]. Attach the full code.
+
+
+
+### Animations
+An example of overdamped design
+![overdamped](./images/drawer_overdamped.gif)
