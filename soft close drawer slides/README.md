@@ -42,7 +42,7 @@ Note: You can disable/enable simulation from here: `drawerlab/settings.py`.
  
 **_Deliverables:_** 
 
-**\[b-1\]** You will need to run drawer_b.py. But first, open file `drawerlab/mass_spring_damper.py` and complete task **TODO6-7**. Refer to your textbook or online resource for solving differential equations using ODE.
+**\[b-1\]** You will need to run `drawer_b.py`. But first, open file `drawerlab/mass_spring_damper.py` and complete task **TODO6-7**. Refer to your textbook or online resource for solving differential equations using ODE.
 
 Report two graphs, showing the time response of the system, i.e. (i) position vs time [5%], (ii) velocity vs time [5%].  
 
