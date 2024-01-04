@@ -4,10 +4,10 @@ This repository includes several vibration labs. See each folder for detailed in
 
 ### Working on the Labs
 You need to install Python and Git on your system.\
-Open a terminal and run the following commands to check out the code:\
+Open a terminal and run the following command to check out the code:\
 `git clone https://github.com/SajadSaeediG/vibration_labs`\
 Follow the instructions to complete the lab.\
-You need the following Python packages:\
+You need to install the following Python packages on your system:\
 `numpy`\
 `matplotlib`\
 `scipy`\
