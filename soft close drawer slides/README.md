@@ -14,6 +14,8 @@
 
 **Problem Statement:**  Soft-close drawer slides are used to make sure the drawer is closed softly. One of the advantages of such systems is that no electricity is required to close the drawer. 
 
+![drawer](./images/drawer.png)
+
 The system can be modeled as a single degree of freedom, with a point mass of m \[kg\] (for the drawer), spring stiffness of k \[N/m\], and the damping coefficient of c \[F/m/s\]. Refer to the course material for the EOM of the system. Assume m = 1, k = 3, c = 2.
 
 This lab has parts a, b, c, d, and e.
