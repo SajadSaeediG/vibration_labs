@@ -25,28 +25,28 @@ This lab has parts a, b, c, d, and e.
 Deliverables: 
 
 **\[a-1\]** Determine the roots of the system \[2%\]. What do the roots state about the system? \[1%\]
-Hint: open the file `drawerlab/mass_spring_damper.py` and complete TODO1
-By running drawer_a.py, you will see the results.
+Hint: open the file *drawerlab/mass_spring_damper.py* and complete **TODO1**
+By running *drawer_a.py*, you will see the results.
 	
-**\[a-2\]** Once you know the type of the system, in file drawer_a.py, complete TODO2-5.
+**\[a-2\]** Once you know the type of the system, in file *drawer_a.py*, complete **TODO2-5**.
 
 Reports three graphs, showing the time response of the system, i.e. (i) position vs time \[4%\], (ii) velocity vs time \[4%\], and (iii) acceleration vs time \[4%\]. These graphs are saved on your computer.
 
-**\[a-3\]** In your lab report, report the code you developed for only TODO1-5 \[5%\]. Attached the full code.
+**\[a-3\]** In your lab report, report the code you developed for only **TODO1-5** \[5%\]. Attached full code.
 
 
 ### Part b
 **\[b\]\[15%\]** Solve the equations of the motion numerically using ODE library.
 
-Note: You can disable/enable simulation from here: drawerlab/settings.py. 
+Note: You can disable/enable simulation from here: **drawerlab/settings.py**. 
  
 **_Deliverables:_** 
 
-**\[b-1\]** You will need to run drawer_b.py. But first, open file drawerlab/mass_spring_damper.py and complete task TODO6-7. Refer to your textbook or online resource for solving differential equations using ODE.
+**\[b-1\]** You will need to run drawer_b.py. But first, open file *drawerlab/mass_spring_damper.py* and complete task **TODO6-7**. Refer to your textbook or online resource for solving differential equations using ODE.
 
 Report two graphs, showing the time response of the system, i.e. (i) position vs time [5%], (ii) velocity vs time [5%].  
 
-**\[b-2\]** In your lab report, report the code you developed for only TODO6-7 [5%]. Attached the full code.
+**\[b-2\]** In your lab report, report the code you developed for only TODO6-7 [5%]. Attached full code.
 
 
 
@@ -56,7 +56,7 @@ Report two graphs, showing the time response of the system, i.e. (i) position vs
 
 **_Deliverables_** 
 
-You will need to run drawer_c.py. But first, open file drawerlab/mass_spring_damper.py again and complete task TODO8
+You will need to run *drawer_c.py*. But first, open file *drawerlab/mass_spring_damper.py* again and complete task **TODO8**
 
 **\[c-1\]** Report the formulation of calculations [2%]
 
@@ -64,7 +64,7 @@ You will need to run drawer_c.py. But first, open file drawerlab/mass_spring_dam
 
 **\[c-3\]** How long did it take for the drawer to close, assume the drawer closes once it hits the frame [2%]
 
-**\[c-4\]** In your lab report, report the code you developed for only TODO8 [2%]. Attached the full code.
+**\[c-4\]** In your lab report, report the code you developed for only TODO8 [2%]. Attached full code.
 
 
 
@@ -73,7 +73,7 @@ You will need to run drawer_c.py. But first, open file drawerlab/mass_spring_dam
 
 **_Deliverables_** 
 
-You will need to run drawer_d.py. 
+You will need to run *drawer_d.py*. 
 
 **\[d-1\]** Report a plot demonstrating the kinetic energy on the y-axis vs the permitted damping coefficient on the x-axis, i.e. 0.1, 0.2, …, 3.0, 3.1. [8%]
 
@@ -81,7 +81,7 @@ You will need to run drawer_d.py.
 
 **\[d-3\]** With the value selected, how long did it take for the drawer to close, assume the drawer closes once it hits the frame [2%].
 
-**\[d-4\]** In your lab report, report the code you developed for only TODO9 [2%]. Attached the full code.
+**\[d-4\]** In your lab report, report the code you developed for only TODO9 [2%]. Attached full code.
 
 
 
@@ -91,7 +91,7 @@ You will need to run drawer_d.py.
 
 **_Deliverables_** 
 
-Open drawer_e.py, complete task **TODO10**, and run the code.
+Open *drawer_e.py*, complete task **TODO10**, and run the code.
 
 **\[e-1\]** Report a plot demonstrating all k values on the y-axis vs all c values on the x-axis. The plot should show the permissible range for c and k, such that the drawer is closed in 10 seconds. [10%]
 
@@ -99,4 +99,4 @@ Open drawer_e.py, complete task **TODO10**, and run the code.
 
 **\[e-3\]** Pick a value for c and k from the permissible range, such that the KE is maximized [5%]. Report the closing time [5%].
 
-**\[e-4\]** In your lab report, report the code you developed for only TODO10 [5%]. Attach the full code.
+**\[e-4\]** In your lab report, report the code you developed for only **TODO10** [5%]. Attach the full code.
