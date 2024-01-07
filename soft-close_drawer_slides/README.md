@@ -107,3 +107,5 @@ An example of an underdamped design:\
 An example of an underdamped design:\
 ![overdamped](./images/drawer_underdamped2.gif)
 
+If you want to record the videos, you need to enable it in `drawerlab/settings/py`, i.e. `self.make_video = True`. You also need to make sure `ffmpeg` is installed on your system.
+
