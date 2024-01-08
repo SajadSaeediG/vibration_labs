@@ -13,20 +13,24 @@ This lab has parts a, b, and c.
 
 
 ### Part A
-[a][45%] Simulate the response of the system. Solve the equations of the motion numerically using ODE library.
+[A][45%] Simulate the response of the system. Solve the equations of the motion numerically using ODE library.
 
 
-Deliverables: 
+**[A-1]** Plot the response of the system for 40 seconds.  
+	**[(I)]** Show a plot, amplitude vs time [5%] and velocity vs time [5%], both on one plot side by side.
+	**[(II)]** With the parameters given, is the design constraint achievable? [5%]
 
-**\[a-1\]** Determine the roots of the system \[2%\]. What do the roots state about the system? \[1%\]
-Hint: open the file `drawerlab/mass_spring_damper.py` and complete **TODO1**.
-By running `drawer_a.py`, you will see the results.
-	
-**\[a-2\]** Once you know the type of the system, in file `drawer_a.py`, complete **TODO2-5**.
+Hint: open the file `mass_spring_damper.py` and complete **TODO1**. Then run the code for part a.
 
-Reports three graphs, showing the time response of the system, i.e. (i) position vs time \[4%\], (ii) velocity vs time \[4%\], and (iii) acceleration vs time \[4%\]. These graphs are saved on your computer.
+**[A-2]** You are allowed to increase the damping coefficient, by the steps of 4 kg/s, starting from 30 kg/s, and ending at 98 kg/s. What is the smallest value of c such that the maximum vibration amplitude is limited to 0.26 m and the maximum speed is limited to 0.60 m/s? Use an exhaustive search method to search for the values of the damping coefficient. In your report, present: 
+	**[(I)]** (i) a graph demonstrating max velocity/max amplitude vs damping coefficient [5%]. Reports these graphs for the right value of c, for 40 seconds.
+	**[(II)]** Report the value of c satisfying the constraints. [5%].
+	**[(III)]** (iii)	For the value satisfying the constraints, preset amplitude vs time [5%] and velocity vs time [5%], both on one plot side by side. 
 
-**\[a-3\]** In your lab report, report the code you developed for only **TODO1-5** \[5%\]. Attached full code.
+Hint: In file `excitation_a.py`, complete **TODO2-3**.
+
+**[A-3]**  In your lab report, present the code you developed for only TODO1-3 [10%]. Attached the full code.
+
 
 
 ### Animations
