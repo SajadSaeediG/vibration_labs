@@ -12,8 +12,8 @@ from icecream import ic
 def make_plots(time_x_v_a) -> None:
     t = time_x_v_a[0]
     x = time_x_v_a[1]
-    v = time_x_v_a[1]
-    a = time_x_v_a[1]
+    v = time_x_v_a[2]
+    a = time_x_v_a[3]
     # Part [a-2-i]
     plt.figure('Position vs Time')
     plt.plot(t,x); plt.ylabel('position (m)'); plt.xlabel('time (sec)'); plt.grid();
