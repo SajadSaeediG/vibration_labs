@@ -1,8 +1,9 @@
 ### Vibration Labs
 This repository includes several vibration labs. See each folder for detailed instructions. Navigate to the folder, and click on README.md to see the instructions. 
 The labs include:
-* Soft-close Drawer Slides
+* Free Vibration (Soft-close Drawer Slides)
 * Harmonic Excitation
+* Multiple-DOF Vibration System
 
 ### Working on the Labs
 You need to install Python and Git on your system.\
