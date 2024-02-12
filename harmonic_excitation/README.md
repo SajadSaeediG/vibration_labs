@@ -40,7 +40,7 @@ Hint: In file `excitation_a.py`, complete **TODO2-3**.
 - **(I)** amplitude vs time for both models on the same plot  [5%] and amplitude error vs time [5%], on the same plot, side by side. 
 * **(II)** velocity vs time for both models on the same plot  [5%] and velocity error vs time [5%], on the same plot, side by side.
 + **(III)** what are the differences between the models in terms of frequency and amplitude? [5%]
-- **(III)** (iv)	with the parameters given, are the original design constraints achievable (amplitude of vibration must be less than 0.4 m, and its speed must be under 0.8 m/s) You must regenerate the graph of [A-2-I] with this new model? [5%]
+- **(III)** (iv)	with the parameters given, are the original design constraints achievable (amplitude of vibration and its speed) You must regenerate the graph of [A-2-I] with this new model? [5%]
 
 Hint: open the file `mass_spring_damper.py` and complete **TODO4**.
 
