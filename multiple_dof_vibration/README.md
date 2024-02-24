@@ -65,8 +65,8 @@ Hint: complete **TODO14-16** and **complete **TODO18-20**.
 
 ### Animations
 Animation of the system, both ends are fixed:\
-![MDOF Vibration](./images/mdof_fixed.gif)
+![MDOF Vibration](./images/mdof_restrained.gif)
 
 
 Animation of the system, both ends are free:\
-![MDOF Vibration](./images/mdof_free.gif)
+![MDOF Vibration](./images/mdof_unrestrained.gif)
