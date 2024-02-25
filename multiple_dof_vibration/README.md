@@ -9,6 +9,7 @@ Several masses and springs are set up as shown in the following figure. Using mo
 
 The system can be modeled as a multiple degree of freedom, with the following parameters:
 m<sub>1</sub> = 2 [kg], m<sub>2</sub> = 2 [kg], m<sub>3</sub> = 2 [kg] 
+
 k<sub>1</sub> = 2 [N/m], k<sub>2</sub> = 2 [N/m], k<sub>3</sub> = 2 [N/m], k<sub>4</sub> = 2 [N/m]
 
 This lab has two parts A and B.
