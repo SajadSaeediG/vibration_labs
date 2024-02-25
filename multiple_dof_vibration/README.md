@@ -13,6 +13,8 @@ k<sub>1</sub> = 2 [N/m], k<sub>2</sub> = 2 [N/m], k<sub>3</sub> = 2 [N/m], k<sub
 
 This lab has two parts A and B.
 
+Important: Attach the complete code with completed TODOs as a zip file. No code means a zero grade.
+
 
 ### Part A - Modal Analysis 
 **[A][50%]** Simulate the response of the system. Assume the initial conditions are:
@@ -52,7 +54,7 @@ Plot the displacement response of the system for 40 seconds. You should report t
 
 **[B-3]** What are (is) the differences between physical displacement plots for part A-2 and part B-1? [5%].
 
-With the given initial conditions, assume an impulse, with the magnitude of F = 1 N.s,  is applied to mass m<sub>2</sub> at time t=0. The direction of the impulse is parallel to the surface and is pointing to m<sub>1</sub>. Simulate the response of the system using the ODE method.
+With the given initial conditions, assume an impulse, with the magnitude of F = 2 N.s,  is applied to mass m<sub>2</sub> at time t=0. The direction of the impulse is parallel to the surface and is pointing to m<sub>1</sub>. Simulate the response of the system using the ODE method.
 
 **[B-4]** What did you do to simulate the impulse? Explain [3%]. Report the code you added [2%].
 
