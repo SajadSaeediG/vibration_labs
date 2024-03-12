@@ -20,7 +20,7 @@ def plot_amplitudes(physical_answers, modal_answers, t):
     plt.show()
 
     plt.figure(2)
-    plt.plot(t, physical_answers[0], '-.r', linewidth=1, label='x1') 
+    plt.plot(t, physical_answers[0], '-r', linewidth=1, label='x1') 
     plt.plot(t, physical_answers[1], '-.g', linewidth=1, label='x2')
     plt.plot(t, physical_answers[2], '-.b', linewidth=1, label='x3') 
 
@@ -38,7 +38,7 @@ def plot_amplitudes_velocities(x,t):
     
     # plots
     plt.figure(3)
-    plt.plot(t, x[:,0], '-.r', linewidth=1, label='x1') 
+    plt.plot(t, x[:,0], '-r', linewidth=1, label='x1') 
     plt.plot(t, x[:,1], '-.g', linewidth=1, label='x2')
     plt.plot(t, x[:,2], '-.b', linewidth=1, label='x3') 
 
@@ -49,7 +49,7 @@ def plot_amplitudes_velocities(x,t):
 
     # plots
     plt.figure(4)
-    plt.plot(t, x[:,3], '-.r', linewidth=1, label='x1') 
+    plt.plot(t, x[:,3], '-r', linewidth=1, label='x1') 
     plt.plot(t, x[:,4], '-.g', linewidth=1, label='x2')
     plt.plot(t, x[:,5], '-.b', linewidth=1, label='x3') 
 
